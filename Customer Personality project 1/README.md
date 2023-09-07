@@ -1,5 +1,4 @@
-# Predict-Customer-Personality-to-boost-marketing-campaign-by-using-Machine-Learning
-
+# Predict Customer Personality
 ## Data Understanding
 - Description
   - This dataset contains several features based on customer behavior that is carried out on a website.
@@ -140,8 +139,6 @@ If we continue to prioritize customers in this group and none of them churn, the
 - Medium Customers: IDR 109 Million
 - Loyalty Customers: IDR 880 Million
 - New Customers: IDR 93 Million
-
-**Mini-Project File Link is** <a href="https://drive.google.com/file/d/1WGC841EZWvSZyIUuQdNt3KtHW60EEPdt/view?usp=drive_link">Here</a>
 
 
 
